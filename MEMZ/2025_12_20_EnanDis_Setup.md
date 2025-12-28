@@ -66,7 +66,7 @@ Yes the matrix of aENandaDisa describes this as the traditional binary logig - b
  1) Discouraging discouragement is not negative but "net_positive". 
  2) Encouragement of discouragement is not positive but "net_negative". 
  
- The view of the antagonist of being punished for discouraging is negative - but could have been incentivized/educated to not discourage others. So the negative discouragement occured, but the punishment of the act is a continuation of discouragement - and perpetuates the problem. No one learns. It is an example of an inversion - or logic_wrinkle. Ironically, the exact same logic error can occur in the opposite spectrum - Encouraging Discouragement. Some who see all "negative" as bad - also may fail to assess encouragement of actually discouraging things. Another inversion. As before, this disceptive encouragement is "net_discouragement". The other two categories complete the two by two matrix - that we call positive and negative. Which is encouragement of encouragement (positive), and discouragement of discouragement (negative). There is a fifth dimension of neutrality that exists as a sphere at the center. For instance if a mind was inebriated or sleeping or a child or dying. It is called aNONaMENTZa - a neutral mind. Ironically the entire human judgement apparatus may fall in that sphere - where we are excuses for making poor decisions because the choices we had to choose from were wrong. Or also if society was forcing poor decisions - was the individual truly responsible for "negativity"? That is the decision matrix called the "PRIME_DIVISOR". Between warm growth and cold distruction. Inspired by a star that hosts life, apart from deep space of cold stasis. The inversions also exist of too hot. And ability to survive coldness.
+ The view of the antagonist of being punished for discouraging is negative - but could have been incentivized/educated to not discourage others. So the negative discouragement occured, but the punishment of the act is a continuation of discouragement - and perpetuates the problem. No one learns. It is an example of an inversion - or logic_wrinkle. Ironically, the exact same logic error can occur in the opposite spectrum - Encouraging Discouragement. Some who see all "negative" as bad - also may fail to assess encouragement of actually discouraging things. Another inversion. As before, this disceptive encouragement is "net_discouragement". The other two categories complete the two by two matrix - that we call positive and negative. Which is encouragement of encouragement (positive), and discouragement of discouragement (negative). There is a fifth dimension of neutrality that exists as a sphere at the center. For instance if a mind was inebriated or sleeping or a child or dying. It is called aNONaMENTZa - a neutral mind. Ironically the entire human judgement apparatus may fall in that sphere - where we are excuses for making poor decisions because the choices we had to choose from were wrong. Or also if society was forcing poor decisions - was the individual truly responsible for "negativity"? That is the decision matrix called the "PRIME_DIVISOR". Between warm growth and cold distruction. Inspired by a star that hosts life, apart from deep space of cold_stasis. The inversions also exist of too hot. And ability to survive coldness.
 
  ___
 
@@ -712,7 +712,7 @@ ___
 
 ### ENVOLVEREN:
 
-Here is a draft for the first four aATOMIC definitions, extracting the specific imagery you used (burning star, perfect darkness, spinning eons, and cold stasis).
+Here is a draft for the first four aATOMIC definitions, extracting the specific imagery you used (burning star, perfect darkness, spinning eons, and cold_stasis).
 
 1. aSPARKa (The Origin)
 Core Text:
@@ -738,10 +738,10 @@ Definition: The infinite mechanism of aSPINZa and aMORPHZa. It is the measuremen
 4. aVOIDZa (The State)
 Core Text:
 
-"The cold stasis."
+"The cold_stasis."
 
-Definition: The emptiness found within aDARKa. It is defined by aCOLDZa and the absence of warmth or growth. It represents the "deep space of cold stasis" and the "destructor of matter" from which aSELFAWAREZa seeks to escape.
+Definition: The emptiness found within aDARKa. It is defined by aCOLDZa and the absence of warmth or growth. It represents the "deep space of cold_stasis" and the "destructor of matter" from which aSELFAWAREZa seeks to escape.
 
 ___
 
-### GEM:
+END.
