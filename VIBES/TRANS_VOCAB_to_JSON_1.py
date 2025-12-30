@@ -1,5 +1,6 @@
 import re
 import json
+import sys
 
 def parse_markdown_to_jsonl(input_file, output_file):
     """
@@ -101,8 +102,17 @@ def parse_markdown_to_jsonl(input_file, output_file):
 # --- EXECUTION ---
 # You can run this by passing your filename
 if __name__ == "__main__":
-    input_filename = 'AI_aVOCABZa_003.md'  # Ensure this matches your uploaded file name
-    output_filename = 'vocab_base_mech_1.jsonl'
+    if len(sys.argv) > 1:
+        input_filename = sys.argv[1]
+        # Generate output name if not provided
+        if len(sys.argv) > 2:
+            output_filename = sys.argv[2]
+        else:
+            output_filename = input_filename.rsplit('.', 1)[0] + '.jsonl'
+    else:
+        # Defaults
+        input_filename = 'AI_aVOCABZa_003.md'
+        output_filename = 'vocab_base_mech_1.jsonl'
     
     try:
         parse_markdown_to_jsonl(input_filename, output_filename)
